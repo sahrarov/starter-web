@@ -8,7 +8,7 @@
 # THANKS
 
    Thanks to ... 
-
+   Thanks second time to ...
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
