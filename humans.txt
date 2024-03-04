@@ -9,6 +9,7 @@
 
    Thanks to ... 
    Thanks second time to ...
+   the third line
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
